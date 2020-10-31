@@ -1,14 +1,14 @@
-#Title
-##Description/Overview
-##Technology Stack
-##Installation
+# Title
+## Description/Overview
+## Technology Stack
+## Installation
 ## ScreenShots📸
-##Learnings
-##Resources
-##Notes
+## Learnings
+## Resources
+## Notes
 ## Contributors
 
-**Maintainer:** [Pawan Kumar](https://github.com/iampawan)
+**Maintainer:** [Siddhant Chogle](https://github.com/SiddhantChogle)
 
 ## License
 
